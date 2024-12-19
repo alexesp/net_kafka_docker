@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ADx736FcBiByFDiNhlqwh6Xj881N/Vzaoewabg1XiX9zVU7uDM9N8u7cGKLJ+lqcczBhE3m6ayn/4RCwgT2JIQ==",
+  "dgSpecHash": "A6MxmvHP3+qt0lBsf7XRlVngd/hm6Py6mpK2MHxqETsBqQk/qQq7E3WJInURRNPvIDcKt+r++8tTPkQdMKnIKA==",
   "success": true,
   "projectFilePath": "/home/ubuntu/Escritorio/net_kafka_docker_sql/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [],

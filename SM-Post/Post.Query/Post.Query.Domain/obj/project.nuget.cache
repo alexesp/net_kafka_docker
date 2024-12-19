@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uei8Fk701UfDvrjC8nOYRuIjJEQ5I3BxiimhYHocZNUht447E+FmTr3sgN7hK4HVsWr5qN8BCbwVfyk5Nzqutg==",
+  "dgSpecHash": "HH2aUStAP9YCz+j/v6memSzkazJwSpiWTWaU/8ndgbcwPM8PyX8SLs2jaa8bWGzDwND0Ou+9KbJzD8CtKgPi2g==",
   "success": true,
   "projectFilePath": "/home/ubuntu/Escritorio/net_kafka_docker_sql/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
